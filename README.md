@@ -3,5 +3,5 @@
 
 <h3 align="center"> 🗨 SNS </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Instagram : tag.eunhye-20232a.svg?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  <img src="https://img.shields.io/badge/Instagram : tag.eunhye-20232a?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </div>
