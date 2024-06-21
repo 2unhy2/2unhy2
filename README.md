@@ -12,7 +12,7 @@
 
 <h3 align="center"> 📚 Studying </h3>
 <div align="center">
-<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-20232a?style=flat-square&logo=spring&logoColor=#DB33F" />
 <img src="https://img.shields.io/badge/AWS-FFFFFF?style=flat-square&logo=amazonwebservices&logoColor=232F3E" />
 </div>
