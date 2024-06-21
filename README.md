@@ -16,3 +16,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/AWS-FFFFFF?style=flat-square&logo=amazonwebservices&logoColor=232F3E" />
 </div>
+
+<br>
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2unhy2&show_icons=true&theme=radical)
+</div>
