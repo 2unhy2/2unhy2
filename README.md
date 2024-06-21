@@ -29,7 +29,9 @@
 
 <br>
 
-<h3 align="center"> ✉ Email </h3>
-<img src="https://img.shields.io/badge/enhye041227@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor=03C75A" />
-<img src="https://img.shields.io/badge/te4579@gmail.com-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" />
 
+<h3 align="center"> ✉ Email </h3>
+<div align="center">
+<img src="https://img.shields.io/badge/enhye041227@naver.com-03C75A?style=flat-square&logo=naver&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/te4579@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF" />
+</div>
