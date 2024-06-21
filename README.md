@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,25&height=110&section=header&text=Hi%20there%20!!🐣&animation=fadeIn&f&stroke=b678c4&ontSize=300)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Eunhye's+GitHub&size=30&color=27248A&height=65&background=FFFFFF&duration=4000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Eunhye's+GitHub&size=30&pause=3000&color=27248A&height=65&background=FFFFFF&duration=4000)](https://git.io/typing-svg)
 
 <h5 align="center">
 안녕하세요! 대학교에 재학 중인 탁은혜입니다.<br>
