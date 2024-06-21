@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,25&height=110&section=header&text=Hi%20there%20!!🐣&animation=fadeIn&f&stroke=b678c4&ontSize=300)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Eunhye's+GitHub&size=30&repeat=false&color=27248A&height=65&background=FFFFFF&duration=4000)](https://git.io/typing-svg)
 
+<h5 align="center"> 안녕하세요! 대학교에 재학중인 탁은혜 입니다.</h5>
+<h5 align="center">다양한 언어들과 기술들을 배우면서 저의 꿈을 찾고 있어요!</h5>
+<h5 align="center">경험을 쌓으면서 좋은 개발자가 되기위해 열심히 노력하겠습니다!😉 </h5>
+
 <h3 align="center"> 🗨 SNS </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Instagram : tag.eunhye-20232a?style=flat-square&logo=instagram&logoColor=E4405F" />
@@ -17,7 +21,4 @@
 <img src="https://img.shields.io/badge/AWS-FFFFFF?style=flat-square&logo=amazonwebservices&logoColor=232F3E" />
 </div>
 
-<br>
-<div align="center">
 
-</div>
