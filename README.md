@@ -27,4 +27,9 @@
 <img src="https://img.shields.io/badge/AWS-FFFFFF?style=flat-square&logo=amazonwebservices&logoColor=232F3E" />
 </div>
 
+<br>
+
+<h3 align="center"> ✉ Email </h3>
+<img src="https://img.shields.io/badge/enhye041227@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor=03C75A" />
+<img src="https://img.shields.io/badge/te4579@gmail.com-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" />
 
