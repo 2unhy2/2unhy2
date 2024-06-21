@@ -13,5 +13,5 @@
 <h3 align="center"> 📚 Studying </h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Spring-20232a?style=flat-square&logo=spring&logoColor=#DB33F" />
-<img src="https://img.shields.io/badge/AWS-FFFFB4?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E" />
+<img src="https://img.shields.io/badge/AWS-FFFFFF?style=flat-square&logo=amazonwebservices&logoColor=232F3E" />
 </div>
