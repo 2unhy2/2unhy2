@@ -12,6 +12,6 @@
 
 <h3 align="center"> 📚 Studying </h3>
 <div align="center">
-
-<img src="https://img.shields.io/badge/ASW-23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=##232F3E" />
+<img src="https://img.shields.io/badge/Spring-20232a?style=flat-square&logo=spring&logoColor=#DB33F" />
+<img src="https://img.shields.io/badge/AWS-20232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E" />
 </div>
