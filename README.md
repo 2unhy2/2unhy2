@@ -4,4 +4,14 @@
 <h3 align="center"> 🗨 SNS </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Instagram : tag.eunhye-20232a?style=flat-square&logo=instagram&logoColor=E4405F" />
+   <a href="https://www.instagram.com/aa_rong15?igsh=MXJrZGptbXdqbGR4Yg%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram : aa_rong15-20232a?style=flat-square&logo=instagram&logoColor=E4405F" />
+  <img src="https://img.shields.io/badge/Discord : 2unhy2_-20232a?style=flat-square&logo=discord&logoColor=5865F2" />
+</div>
+
+<br>
+
+<h3 align="center"> 📚 Stydying </h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />
+<img src="https://img.shields.io/badge/ASW-20232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=##232F3E" />
 </div>
